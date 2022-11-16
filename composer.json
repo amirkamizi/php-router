@@ -1,0 +1,19 @@
+{
+    "name": "amirkamizi/php-router",
+    "description": "this is a simple router built during the php course",
+    "require": {
+        "php": "^7.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Amirkamizi\\PhpRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amirkamizi"
+        }
+    ],
+    "minimum-stability": "dev"
+}
